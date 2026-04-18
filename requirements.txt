@@ -1,11 +1,8 @@
-langchain==1.2.15
-langchain-community==0.4.1
-langchain-huggingface==1.2.2
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
 faiss-cpu
 sentence-transformers
-transformers
-accelerate
-bitsandbytes
-gradio==4.44.1
-pydantic==2.8.2
-huggingface_hub==0.24.0
